@@ -21,6 +21,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Amberol](https://gitlab.gnome.org/ebassi/amberol) #rust #libadwaita
 - [G4Music](https://github.com/neithern/g4music) #vala #libadwaita
 - [HBud](https://github.com/swanux/hbud) Audio/video player and karaoke app #python #libadwaita
+- [fml9000](https://github.com/cmdcolin/fml9000) #rust #libadwaita #wip
 
 ##### Streaming Service Clients
 
